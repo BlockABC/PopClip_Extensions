@@ -1,0 +1,28 @@
+    <?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+    <dict>
+    <key>Actions</key>
+    <array>
+    <dict>
+    <key>Script Interpreter</key>
+    <string>/usr/bin/ruby</string>
+    <key>Shell Script File</key>
+    <string>script.rb</string>
+    <key>Title</key>
+    <string>search on EOSPark</string>
+          <key>Image File</key>
+      <string>icon.png</string>
+
+    </dict>
+    </array>
+    <key>Extension Description</key>
+    <string>EOS search on EOSPark</string>
+    <key>Extension Identifier</key>
+    <string>com.specer.popclip.extension.EOSSearch</string>
+      <key>Extension Name</key>
+    <string>EOS Search</string>
+    <key>Version</key>
+    <integer>2</integer>
+    </dict>
+    </plist>
